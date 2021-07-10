@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComandoInvalidoException
+comment1.params=
+comment1.target=ComandoInvalidoException()
+comment2.params=s
+comment2.target=ComandoInvalidoException(java.lang.String)
+numComments=3

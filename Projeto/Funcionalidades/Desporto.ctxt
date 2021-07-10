@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Desporto
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ Desporto\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ da\ vers\u00E3o\ ou\ data)\n
+comment1.params=vel\ res\ des\ imp\ cab\ rem\ p\ habilidade_especial
+comment1.target=int\ calculaOverall(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=vel\ res\ des\ imp\ cab\ rem\ p
+comment2.target=int\ habilidadeEspecial(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=int\ getHabilidade_Especial()
+comment4.params=habilidade_especial
+comment4.target=void\ setHabilidade_Especial(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

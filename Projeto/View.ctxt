@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ View\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=
+comment1.target=View()
+comment2.params=info
+comment2.target=void\ mensagem(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ read()
+comment4.params=
+comment4.target=int\ readNumber()
+comment5.params=
+comment5.target=java.lang.String\ help()
+comment5.text=\n\ Metodo\ que\ mostra\ o\ menu\ de\ ajuda\ para\ o\ utilizador\n
+comment6.params=e
+comment6.target=void\ comandoInvalido(ComandoInvalidoException)
+comment6.text=\n\ Metodo\ que\ imprime\ uma\ exce\u00E7ao\n
+comment7.params=e
+comment7.target=void\ comandoFileNotFound(java.io.FileNotFoundException)
+comment7.text=\n\ Metodo\ que\ imprime\ a\ exce\u00E7ao\ de\ FileNotFound\n
+comment8.params=
+comment8.target=java.lang.String\ posicoes()
+comment8.text=\n\ Metodo\ que\ mostra\ as\ posicoes\ disponiveis\n
+comment9.params=
+comment9.target=java.lang.String\ roles()
+comment9.text=\n\ Metodo\ que\ imprime\ as\ zonas\ de\ campo\ disponiveis\n
+numComments=10

@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=visitante\ visitada
+comment1.target=Jogo(Equipa,\ Equipa)
+comment1.text=\n\ \ \ \ public\ Jogo(){\n\ \ \ \ \ \ \ \ this.tempo\=\ 0;\n\ \ \ \ \ \ \ \ Equipa\ visitante\=\ new\ Equipa();\n\ \ \ \ \ \ \ \ Equipa\ visitada\=\ new\ Equipa();\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ this.visitante\=\ visitante;\n\ \ \ \ \ \ \ \ this.visitada\=\ visitada;\n\ \ \ \ \ \ \ \ this.golos_visitante\=\ 0;\n\ \ \ \ \ \ \ \ this.golos_visitada\=\ 0;\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \n}
+comment10.params=
+comment10.target=void\ goloVisitante()
+comment11.params=
+comment11.target=java.lang.String\ showResult()
+comment12.params=
+comment12.target=void\ aumentaCansaco()
+comment12.text=\n\ Metodo\ que\ aumenta\ o\ cansa\u00E7o\ dos\ jogadores\ titulares\n
+comment13.params=
+comment13.target=java.lang.String\ calculaEvento()
+comment13.text=\n\ Metodo\ que\ calcula\ o\ evento\ de\ cada\ parte\ do\ jogo\n
+comment2.params=
+comment2.target=Equipa\ getEquipaVisitante()
+comment3.params=
+comment3.target=Equipa\ getEquipaVisitada()
+comment4.params=
+comment4.target=java.lang.String\ getFinalResult()
+comment5.params=
+comment5.target=java.util.Map\ getSubsCasa()
+comment5.text=\n\ Metodo\ que\ devolve\ o\ Map\ das\ substitui\u00E7oes\ da\ equipa\ da\ casa\n
+comment6.params=
+comment6.target=java.util.Map\ getSubsFora()
+comment6.text=\n\ Metodo\ que\ devolve\ o\ Map\ das\ substitui\u00E7oes\ da\ equipa\ de\ fora\n
+comment7.params=
+comment7.target=Registos\ criaRegisto()
+comment7.text=\n\ Metodo\ que\ cria\ o\ registo\ pos\ jogo\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Metodo\ toString\ da\ classe\ Jogo\n
+comment9.params=
+comment9.target=void\ goloVisitada()
+numComments=14

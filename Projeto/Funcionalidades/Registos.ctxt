@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Registos
+comment1.params=ec\ ef\ gc\ gf\ d\ jc\ sc\ jf\ sf
+comment1.target=Registos(java.lang.String,\ java.lang.String,\ int,\ int,\ java.time.LocalDate,\ java.util.List,\ java.util.Map,\ java.util.List,\ java.util.Map)
+comment2.params=input
+comment2.target=Registos\ parse(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNomeCasa()
+comment3.text=\n\ Metodo\ que\ obtem\ o\ nome\ da\ equipa\ da\ casa\n
+comment4.params=
+comment4.target=java.lang.String\ getNomeFora()
+comment4.text=\n\ Metodo\ que\ obtem\ o\ nome\ da\ equipa\ da\ casa\n
+comment5.params=
+comment5.target=java.lang.String\ historico()
+comment5.text=\n\ Metodo\ que\ da\ o\ historico\ do\ jogo\n
+comment6.params=
+comment6.target=java.lang.String\ painelJogo()
+comment6.text=\n\ Metodo\ toString\ de\ Jogo\n
+numComments=7
